@@ -40,6 +40,3 @@ docker:
       image: ubuntu
       image_version: '12.04'
       command: /sbin/init
-
-verifier:
-  name: testinfra
